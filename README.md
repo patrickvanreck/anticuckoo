@@ -1,6 +1,8 @@
 # anticuckoo
 A tool to detect and crash Cuckoo Sandbox. Tested in [Cuckoo Sandbox Official](http://www.cuckoosandbox.org/) and [Accuvant's Cuckoo version](https://github.com/brad-accuvant/cuckoo-modified). 
 
+Please, consider make a donation: https://github.com/sponsors/therealdreg
+
 Anticuckoo can also detect other sandbox like FireEye (-c2):
 
 ![ScreenShot](https://github.com/David-Reguera-Garcia-Dreg/anticuckoo/blob/images/fireyee.png)
@@ -53,11 +55,11 @@ New ideas & PRs are wellcome.
 ## Referenced by
 
 * Stealthy, Hypervisor-based Malware Analysis - Tamas K Lengyel: https://www.slideshare.net/tklengyel/stealthy-hypervisorbased-malware-analysis
-* Brad Spengler (grsecurity) nice words: https://github.com/brad-accuvant/community-modified/commit/29587d691242a9ba890877f623fdf2447fe4336f
+* Brad Spengler (grsecurity) nice words: https://github.com/brad-sp/community-modified/commit/29587d691242a9ba890877f623fdf2447fe4336f
 * Reddit / netsec discussion about anticuckoo: https://www.reddit.com/r/netsec/comments/3atvmb/anticuckoo_a_tool_to_detect_and_crash_cuckoo/
 * Multiple Instance Learning for Malware Classification - Jan Stiborek, Tomáš Pevný, Martin Rehák: https://arxiv.org/pdf/1705.02268.pdf
 * To Catch a Ratter: Monitoring the Behavior of Amateur DarkComet RAT Operators in the Wild - Brown Farinholt, Mohammad Rezaeirad, Paul Pearce, Hitesh Dharmdasani, Haikuo Yin, Stevens Le Blondk, Damon McCoy, Kirill Levchenko: http://damonmccoy.com/papers/rat-sp17.pdf
 * Hack&Beers Cadiz Análisis de Malware Cuckoo Sandbox - Mario Alberto Parra Alonso: https://www.slideshare.net/MarioAlbertoParraAlo/hackbeers-cadiz-anlisis-de-malware-cuckoo-sandbox
 * Defense in Depth: Detonation Technologies: http://blog.inquest.net/blog/2018/03/12/defense-in-depth-detonation-technologies/
 * Dynamic Reconfiguration of Intrusion Detection Systems - Jan Stiborek: https://dspace.cvut.cz/bitstream/handle/10467/73562/Disertace_Stiborek_2017.pdf
-
+* New Dynamic Bypass Technique Working in Certain Environments Only: https://asec.ahnlab.com/en/16540/
